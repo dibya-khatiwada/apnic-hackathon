@@ -11,7 +11,7 @@ from ripe.atlas.cousteau import (
   AtlasCreateRequest
 )
 
-ATLAS_API_KEY = "a073ef14-45a3-40d1-8479-b97f01481026"
+ATLAS_API_KEY = "YOUR-RIPE_API_KEY"
 
 
 apnic_prb = []
